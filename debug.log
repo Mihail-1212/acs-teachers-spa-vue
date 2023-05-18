@@ -1,0 +1,7 @@
+[0518/203500.358:ERROR:registration_protocol_win.cc(135)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0518/203539.741:ERROR:registration_protocol_win.cc(107)] CreateFile: Не удается найти указанный файл. (0x2)
+[0518/203542.968:ERROR:registration_protocol_win.cc(107)] CreateFile: Не удается найти указанный файл. (0x2)
+[0518/204343.951:ERROR:registration_protocol_win.cc(107)] CreateFile: Не удается найти указанный файл. (0x2)
+[0518/204607.511:ERROR:registration_protocol_win.cc(107)] CreateFile: Не удается найти указанный файл. (0x2)
+[0518/204821.061:ERROR:registration_protocol_win.cc(107)] CreateFile: Не удается найти указанный файл. (0x2)
+[0518/204901.353:ERROR:registration_protocol_win.cc(107)] CreateFile: Не удается найти указанный файл. (0x2)
